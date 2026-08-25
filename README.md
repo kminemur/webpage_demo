@@ -1,7 +1,7 @@
 # Step1 作らせる
 想定時間15分
 
-社内外向け「PERA Experience」の案内Webページを作ってください。
+社内外向け「PEAR Experience」の案内Webページを作ってください。
 
 以下の内容を含めてください。
 
